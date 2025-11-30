@@ -126,5 +126,3 @@ if st.button("🚀 Start Analysis", use_container_width=True):
 else:
     st.warning("Please upload a resume and paste a Job Description to begin analysis.")
 
-st.markdown("---")
-st.caption("✨ Developed as part of AI Agent Development Challenge")
