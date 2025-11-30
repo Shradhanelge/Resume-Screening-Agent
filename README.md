@@ -63,8 +63,8 @@ streamlit run app.py
 
 ---
 
-## **Status**
-Working locally  
-Deployment link will be added soon.
+## Status
+Live Deployment: https://shradha-resume-screening-agent.streamlit.app/
+
 
 
