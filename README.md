@@ -49,25 +49,22 @@ To automate the resume evaluation process using NLP and ML, reducing manual effo
 
 ---
 
-## How to Run Locally
+## **How to Run Locally**
 
-### 1. Install dependencies
-
+1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
-
-
-### 2. Run the app
-
+2. Run the app
 ```bash
 streamlit run app.py
-
+```
 
 ---
 
-###  **Section: Status**
-```markdown
-## Status
+## **Status**
 Working locally  
 Deployment link will be added soon.
+
+
